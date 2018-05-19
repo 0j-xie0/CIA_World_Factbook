@@ -15,8 +15,8 @@
 ## •Interacted with SQL database via nested SQLite queries within Python.
 ### ••Connected to SQL database via sqlite3 module.
 ### ••Converted SQL database tables to Pandas dataframe.
-### ••Performed summary statistics
-### ••Explored outliers
+### ••Performed summary statistics.
+### ••Explored outliers.
 ### ••Queried population dynamics by country.
 ### ••Generated histograms of population dynamics.
 ### ••Calculated population densities by country.
