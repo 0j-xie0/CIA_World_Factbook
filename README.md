@@ -4,7 +4,7 @@
 # Installation
 •Clone this repo to your computer.  
 •OPTIONAL: the original SQL Factbook database can be found [here.](https://github.com/factbook/factbook.sql/releases)  
-•Install the requirements using pip install -r requirements.txt.  
+•Install the requirements using pip3 install -r requirements.txt.  
 •Make sure you use Python 3.  
 •You may want to install [Jupyter](http://jupyter.org/install) to run the ipynb.
 
